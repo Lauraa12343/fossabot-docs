@@ -39,7 +39,7 @@ This variable does not take any parameters.
 * `$(valorant.display_name)`
 
     ```
-    Aiden#1365
+    praise me#2003
     ```
 
 #### Error Output
